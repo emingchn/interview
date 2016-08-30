@@ -3,7 +3,7 @@
 
 Use two pointers, and don't forget the rest nodes of the longer list.
 
-```
+```javascript
 var mergeTwoLists = function(l1, l2) {
   var p1 = l1,
       p2 = l2,
